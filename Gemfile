@@ -53,4 +53,9 @@ gem 'will_paginate', '~> 3.0.6'
 
 gem 'bootstrap-will_paginate'
 
-gem 'activeadmin'
+gem 'activeadmin', '~> 1.0.0.pre2'
+
+
+
+
+
