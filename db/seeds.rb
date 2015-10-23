@@ -6,7 +6,8 @@ end
 
 cpus_category = Category.create(name: 'CPUs')
 motherboards_category = Category.create(name: 'Motherboards')
-ram_category = Category.create(name: 'RAM')
+category_create = Category.create(name: 'RAM')
+ram_category = category_create
 hdd_category = Category.create(name: 'HDDs')
 
 fixtures_category = Category.create(name: 'Fixtures')
